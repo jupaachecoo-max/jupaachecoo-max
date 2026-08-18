@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ BANNER PRINCIPAL — BOOT SEQUENCE ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff2&height=260&section=header&text=JULIANA%20PACHECO&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=UX%2FUI%20Designer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff2&height=260&section=header&text=JULIANA%20PACHECO&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=UX%2FUI%20Designer%20%7C%20Front-End%20Developer%20%7C%20IA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://git.io/typing-svg">
