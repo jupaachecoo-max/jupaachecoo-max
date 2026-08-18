@@ -37,8 +37,6 @@
 
 - 🎨 Transformo ideias em interfaces limpas, funcionais e com identidade visual forte
 - 💻 Do wireframe ao código: prototipo no Figma e implemento em Angular / HTML / CSS / JS
-- 🌊 Apaixonada por surf, cultura de praia e estética Y2K/zine aplicada ao design digital
-- 🧠 Concluí o Nano Curso de UX da FIAP (60h) e o workshop Figma + IA da EBAC
 - 🚀 Sempre com um projeto novo em andamento — do conceito visual ao deploy
 
 <br/>
