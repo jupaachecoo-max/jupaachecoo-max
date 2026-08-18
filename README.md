@@ -44,6 +44,8 @@
 <!-- ============ TECH STACK ============ -->
 ## `<terminal>` 02_TECH_STACK
 
+<br clear="all" />
+
 <div align="center">
 
 ### 🎨 Design
