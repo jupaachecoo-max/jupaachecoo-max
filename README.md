@@ -26,8 +26,8 @@
 {
   nome: "Juliana",
   formação: "Tecnologia em Sistemas — FAETERJ Petrópolis",
-  especialização: ["UX/UI Design", "Front-End Development"],
-  foco_atual: "Buscando estágio ou vaga júnior em Design/Dev",
+  especialização: ["UX/UI Design", "Front-End Development", "Inteligência Artificial"],
+  foco_atual: "Buscando estágio ou vaga júnior",
   idioma_ui: "pt-BR",
   personalidade: ["curiosa", "detalhista", "obcecada por boas interfaces"]
 }
@@ -36,8 +36,9 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" style="opacity:0.15; position:absolute; right:0;"/>
 
 - 🎨 Transformo ideias em interfaces limpas, funcionais e com identidade visual forte
-- 💻 Do wireframe ao código: prototipo no Figma e implemento em Angular / HTML / CSS / JS
+- 💻 Do wireframe ao código: prototipo no Figma e implemento no Front / HTML / CSS / JS / TS / ANGULAR / React.js
 - 🚀 Sempre com um projeto novo em andamento — do conceito visual ao deploy
+- 🤖 Unindo design, código e IA para construir o futuro das interfaces
 
 <br/>
 
